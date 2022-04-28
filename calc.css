@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+
+html, body {
+    background: url(tip.png);
+}
+
+.card-body{
+    background-color: rgb(108, 197, 182);
+    color: rgb(37, 59, 41);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 25px;
+    background: rgba(197, 125, 125, 0.6);
+}
